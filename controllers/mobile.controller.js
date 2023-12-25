@@ -6,7 +6,6 @@ exports.getAllMobiles = async (req, res) => {
         let { brands, types, memoryOptions, processors, operatingSystems } = req.query;
         
         brands = brands?.split(',');
-        console.log("brands", brands);
         types = types?.split(',');
         memoryOptions = memoryOptions?.split(',');
         processors = processors?.split(',');
