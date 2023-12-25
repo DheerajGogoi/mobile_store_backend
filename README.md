@@ -17,7 +17,7 @@ This repository contains the backend code for the Mobile Ordering Website.
 2. **Navigate to the project directory:**
   
     ```bash
-    cd mobile-ordering-backend
+    cd mobile_store_backend
 
 3. **Install dependencies:**
 
